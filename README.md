@@ -371,4 +371,3 @@ git push origin main --tags
 <img width="1536" height="1024" alt="ERDcorto" src="https://github.com/user-attachments/assets/be4fcc07-fb9f-48cd-8632-da586c4d5bfe" />
 
 
-##Diagrama Entidad Relación
