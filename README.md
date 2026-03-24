@@ -1,5 +1,5 @@
 # Evaluación Práctica PostgreSQL  
-## Sistema de Reporte de Fallos en Pizarras Electrónicas (UJI)
+## Sistema de Reporte de Fallos en Pizarras Electrónicas
 
 Proyecto de práctica para el Diplomado de administración de base de datos e inteligencia de negocios.  
 Incluye diseño físico, integridad referencial, triggers, optimización e instrucciones de mantenimiento en PostgreSQL.
