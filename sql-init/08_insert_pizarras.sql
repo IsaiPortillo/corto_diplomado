@@ -1,4 +1,4 @@
 INSERT INTO pizarras (ubicacion, estado)
-VALUES 
+VALUES
 ('Aula 101', 'Operativa'),
 ('Aula 102', 'Operativa');
