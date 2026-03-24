@@ -364,3 +364,10 @@ git push origin main --tags
 **Asignatura**: Diplomado de administración de base de datos e inteligencia de negocios  
 **Universidad**: Universidad de El Salvador (UES)  
 **Referencia**: Mercedes Marqués - Bases de datos (ISBN: 978-84-693-0146-3)
+
+---
+
+## Diagrama Entidad Relación
+<img width="1536" height="1024" alt="ERDcorto" src="https://github.com/user-attachments/assets/be4fcc07-fb9f-48cd-8632-da586c4d5bfe" />
+
+
