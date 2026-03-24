@@ -360,7 +360,7 @@ git push origin main --tags
 ---
 
 ## Contacto / Autor
-**Estudiante**: Isai Portillo  
+**Estudiantes**: Adilman Isaí Portillo Cerón - PC18035 |  Oscar Alejandro Bonilla Cortez - BC18010
 **Asignatura**: Diplomado de administración de base de datos e inteligencia de negocios  
-**Universidad**: Universitat Jaume I (UJI)  
+**Universidad**: Universidad de El Salvador (UES)  
 **Referencia**: Mercedes Marqués - Bases de datos (ISBN: 978-84-693-0146-3)
